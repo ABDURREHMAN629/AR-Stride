@@ -11,13 +11,12 @@ The profile is seeded for the person this build was made for — **male, 82 kg,
 
 ## Installing
 
-The signed APK is at:
+Download the APK from the
+[latest release](https://github.com/ABDURREHMAN629/AR-Stride/releases/latest), or build
+it yourself (see below), in which case it comes out at
+`app/build/outputs/apk/release/app-release.apk`.
 
-```
-app/build/outputs/apk/release/app-release.apk
-```
-
-Copy it to the phone and open it. Android will ask you to allow installing from
+Open the APK on the phone to install it. Android will ask you to allow installing from
 unknown sources for whichever app is doing the opening (Files, Chrome, etc.) — that
 is expected for an APK that did not come from the Play Store.
 
