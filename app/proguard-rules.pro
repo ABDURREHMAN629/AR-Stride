@@ -1,0 +1,1 @@
+-keep class com.stride.fit.data.model.** { *; }

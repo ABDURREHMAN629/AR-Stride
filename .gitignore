@@ -1,0 +1,24 @@
+# Signing material and anything that reveals it
+keystore/
+keystore.properties
+
+# Local machine paths
+local.properties
+
+# Build output
+build/
+app/build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+captures/
+
+# IDE
+.idea/
+*.iml
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
